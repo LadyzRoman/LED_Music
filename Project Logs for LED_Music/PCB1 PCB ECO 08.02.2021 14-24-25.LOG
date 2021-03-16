@@ -1,0 +1,10 @@
+Added Component: Designator=DA3(301.12-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "й140сд1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DA3-1
+Added Pin To Net: NetName=+6V Pin=DA3-4
+Added Pin To Net: NetName=NetC2_1 Pin=DA3-5
+Added Pin To Net: NetName=+12V Pin=DA3-7
+Added Pin To Net: NetName=NetDA3_9 Pin=DA3-9
+Added Pin To Net: NetName=+6V Pin=DA3-10
+Added Member To Class: ClassName=Sheet1 Member=Component DA3 й140сд1

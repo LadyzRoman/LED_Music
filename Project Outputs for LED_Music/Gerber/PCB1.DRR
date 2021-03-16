@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   08.02.2021  15:29:54
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1.TXT
+ASCII RectHoles File : PCB1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             7         PTH        8.95inch (227.32mm)
+T2      20mil (0.5mm)                                             Round             11        PTH        9.39inch (238.46mm)
+T3      24mil (0.599mm)                                           Round             12        PTH        0.73inch (18.48mm)
+T4      24mil (0.599mm)                                           Rectangle         2         PTH        0.89inch (22.73mm)
+T5      28mil (0.701mm)                                           Round             98        PTH        14.72inch (373.83mm)
+T6      32mil (0.8mm)                                             Rectangle         3         PTH        1.19inch (30.14mm)
+T7      39mil (1.001mm)                                           Round             15        PTH        3.32inch (84.42mm)
+T8      43mil (1.1mm)                                             Round             192       PTH        53.76inch (1365.40mm)
+T9      55mil (1.4mm)                                             Round             8         PTH        4.82inch (122.50mm)
+T10     138mil (3.5mm)                                            Round             2         PTH        0.55inch (14.00mm)
+T11     142mil (3.599mm)                                          Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              351
+
+Total Processing Time (hh:mm:ss) : 00:00:00

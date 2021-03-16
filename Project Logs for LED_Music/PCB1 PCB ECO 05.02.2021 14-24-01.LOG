@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=R7 Old Footprint=R0805 New Footprint=R 10mm
+Added Component: Designator=DA5(14-LEAD DIP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "LM339N"; VariantName = "[No Variations]"
+Added Component: Designator=DA8(14-LEAD DIP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "LM339N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA5_1 Pin=DA5-1
+Added Pin To Net: NetName=NetDA5_2 Pin=DA5-2
+Added Pin To Net: NetName=+12V Pin=DA5-3
+Added Pin To Net: NetName=SAW Pin=DA5-4
+Added Pin To Net: NetName=NetDA5_5 Pin=DA5-5
+Added Pin To Net: NetName=SAW Pin=DA5-6
+Added Pin To Net: NetName=NetC7_1 Pin=DA5-7
+Added Pin To Net: NetName=SAW Pin=DA5-8
+Added Pin To Net: NetName=NetC13_1 Pin=DA5-9
+Added Pin To Net: NetName=SAW Pin=DA5-10
+Added Pin To Net: NetName=NetDA5_11 Pin=DA5-11
+Added Pin To Net: NetName=GND Pin=DA5-12
+Added Pin To Net: NetName=NetDA5_13 Pin=DA5-13
+Added Pin To Net: NetName=NetDA5_14 Pin=DA5-14
+Added Pin To Net: NetName=NetDA8_1 Pin=DA8-1
+Added Pin To Net: NetName=NetDA8_2 Pin=DA8-2
+Added Pin To Net: NetName=+12V Pin=DA8-3
+Added Pin To Net: NetName=SAW Pin=DA8-4
+Added Pin To Net: NetName=NetDA8_5 Pin=DA8-5
+Added Pin To Net: NetName=SAW Pin=DA8-6
+Added Pin To Net: NetName=NetC18_1 Pin=DA8-7
+Added Pin To Net: NetName=SAW Pin=DA8-8
+Added Pin To Net: NetName=NetC23_1 Pin=DA8-9
+Added Pin To Net: NetName=SAW Pin=DA8-10
+Added Pin To Net: NetName=NetDA8_11 Pin=DA8-11
+Added Pin To Net: NetName=GND Pin=DA8-12
+Added Pin To Net: NetName=NetDA8_13 Pin=DA8-13
+Added Pin To Net: NetName=NetDA8_14 Pin=DA8-14
+Added Member To Class: ClassName=Sheet1 Member=Component DA5 LM339N
+Added Member To Class: ClassName=Sheet2 Member=Component DA8 LM339N
